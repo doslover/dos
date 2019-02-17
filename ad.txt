@@ -1,5 +1,2 @@
-[Adblock Plus 2.0]
-! Version: 20190217
 ! Title: Dos' List
-!------------------------General element hiding rules-------------------------!
 m.cnbeta.com##DIV[class="module"]
