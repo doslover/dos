@@ -1,3 +1,4 @@
 ! Title: Dos' List
 m.cnbeta.com##DIV[class="module"]
 3g.163.com##DIV[class="hot_list content-list"]
+3g.163.com##DIV[class="hot_news *"]
