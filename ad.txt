@@ -36,3 +36,5 @@ m.cnbeta.com##DIV[class="cnbeta-article-latest"]
 m.cnbeta.com##DIV[class="copy"]
 www.baidu.com##DIV[class="se-head-logo"]
 www.baidu.com##DIV[id="page-copyright"][class="se-page-copyright"]
+3g.163.com##SPAN[class="hiup_bar"]
+3g.163.com##H3
