@@ -42,3 +42,5 @@ www.baidu.com##DIV[id="page-copyright"][class="se-page-copyright"]
 3g.163.com##FOOTER
 xw.qq.com##.inner-share
 www.google.com##.footer
+tieba.baidu.com##DIV[class="img_desc"]
+tieba.baidu.com##DIV[class="appPromote_wrapper scale-1px-bottom"]
