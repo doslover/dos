@@ -33,7 +33,7 @@ tieba.baidu.com##DIV[class="j_pb_footer j_footer footer pb-footer"]
 m.cnbeta.com##DIV[class="back"]
 m.cnbeta.com##DIV[class="infinity"]
 m.cnbeta.com##DIV[class="cnbeta-article-latest"]
-m.cnbeta.com##DIV[class="copy"]
+!m.cnbeta.com##DIV[class="copy"]
 www.baidu.com##DIV[class="se-head-logo"]
 www.baidu.com##DIV[id="page-copyright"][class="se-page-copyright"]
 3g.163.com##SPAN[class="hiup_bar"]
@@ -42,4 +42,3 @@ www.baidu.com##DIV[id="page-copyright"][class="se-page-copyright"]
 3g.163.com##FOOTER
 xw.qq.com##.inner-share
 www.google.com##.footer
-@@m.facebook.com
