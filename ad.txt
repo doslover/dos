@@ -39,3 +39,4 @@ www.baidu.com##DIV[id="page-copyright"][class="se-page-copyright"]
 3g.163.com##SPAN[class="hiup_bar"]
 3g.163.com##DIV[class="hot_news*"]
 3g.163.com##.hot_news
+3g.163.com##FOOTER
