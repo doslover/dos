@@ -44,3 +44,4 @@ xw.qq.com##.inner-share
 www.google.com##.footer
 tieba.baidu.com##DIV[class="img_desc"]
 tieba.baidu.com##DIV[class="appPromote_wrapper scale-1px-bottom"]
+m.chouti.com##FOOTER[class="footer"]
