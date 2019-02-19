@@ -42,4 +42,4 @@ www.baidu.com##DIV[id="page-copyright"][class="se-page-copyright"]
 3g.163.com##FOOTER
 xw.qq.com##.inner-share
 www.google.com##.footer
-@@m.facebook.com/*
+@@m.facebook.com
