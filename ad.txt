@@ -77,3 +77,6 @@ songshuhui.net##DIV[class="bshare-custom icon-medium"]
 songshuhui.net##STRONG
 songshuhui.net##DIV[class="next"]
 songshuhui.net##A[class="back-to-top"]
+songshuhui.net##DIV[id="comments"]
+songshuhui.net##DIV[id="switch"]
+songshuhui.net##DIV[class="nav-controls clearfix"]
