@@ -4,8 +4,9 @@
 3g.163.com##DIV[class="absolute-positioned"]
 3g.163.com##DIV[class="hot_list content-list"]
 3g.163.com##DIV[class="list-more"]
-!3g.163.com##FOOTER
 3g.163.com##SPAN[class="hiup_bar"]
+3g.163.com##DIV[class="copyright"]
+3g.163.com##DIV[class="foot_nav"]
 i.jandan.net##A[id="jandan-zan-101749"][class="jandan-zan"]
 i.jandan.net##DIV[class="shang"]
 i.jandan.net##DIV[class="social-share share-component"]
