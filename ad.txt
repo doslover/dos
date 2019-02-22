@@ -68,3 +68,6 @@ m.huxiu.com##DIV[class="share-box article-content-share"]
 m.huxiu.com##DIV[class="art-sc-wrap"]
 m.huxiu.com##A[class="bottom-more-comment js-open-app js-pl-detection footerToApp"]
 m.huxiu.com##FOOTER
+m.guokr.com##DIV[id="recommends"]
+m.guokr.com##DIV[class="flex shares"]
+m.guokr.com##DIV[class="reply"]
