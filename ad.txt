@@ -1,4 +1,8 @@
 ! Title: Dos' List
+app.myzaker.com##DIV[id="top5"]
+app.myzaker.com##DIV[class="common_top"]
+app.myzaker.com##DIV[class="downloal-zaker no_show_in_zaker"]
+app.myzaker.com##DIV[class="zk_top_barwrap"]
 36kr.com##DIV[class="related-articles"]
 3g.163.com##.hot_news
 3g.163.com##DIV[class="absolute-positioned"]
